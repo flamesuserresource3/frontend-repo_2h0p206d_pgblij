@@ -80,7 +80,7 @@ const faqs = [
 ];
 
 const UnifiedSections = () => {
-  const [openIdx, setOpenIdx] = useState<number | null>(null);
+  const [openIdx, setOpenIdx] = useState(null);
 
   return (
     <div className="bg-white">

@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="absolute inset-0 -top-24 h-[680px] overflow-hidden">
         <div className="pointer-events-none absolute inset-0 opacity-70">
           <Spline
-            scene="https://prod.spline.design/4cHQr84zOGAHOehh/scene.splinecode"
+            scene="https://prod.spline.design/Qe6dlWJktclXcUBS/scene.splinecode"
             style={{ width: '100%', height: '100%' }}
           />
         </div>
